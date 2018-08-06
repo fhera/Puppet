@@ -6,6 +6,7 @@ mod 'puppetlabs/inifile',     '2.2.1'
 mod 'puppetlabs/stdlib',      '4.25.1'
 mod 'puppetlabs/concat',      '4.2.1'
 mod "puppetlabs/ntp",         :latest
+mod "example42/network",      :latest
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
