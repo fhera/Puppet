@@ -1,3 +1,3 @@
-node 'localhost' {
+node default {
   include role::curso
 }
